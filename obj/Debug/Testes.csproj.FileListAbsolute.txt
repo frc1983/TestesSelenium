@@ -1,0 +1,12 @@
+E:\Projetos\TestesSelenium\bin\Debug\Testes.dll
+E:\Projetos\TestesSelenium\bin\Debug\Testes.pdb
+E:\Projetos\TestesSelenium\bin\Debug\nunit.framework.dll
+E:\Projetos\TestesSelenium\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\Projetos\TestesSelenium\bin\Debug\WebDriver.dll
+E:\Projetos\TestesSelenium\bin\Debug\WebDriver.Support.dll
+E:\Projetos\TestesSelenium\bin\Debug\nunit.framework.xml
+E:\Projetos\TestesSelenium\bin\Debug\ThoughtWorks.Selenium.Core.xml
+E:\Projetos\TestesSelenium\bin\Debug\WebDriver.xml
+E:\Projetos\TestesSelenium\bin\Debug\WebDriver.Support.xml
+E:\Projetos\TestesSelenium\obj\Debug\Testes.dll
+E:\Projetos\TestesSelenium\obj\Debug\Testes.pdb

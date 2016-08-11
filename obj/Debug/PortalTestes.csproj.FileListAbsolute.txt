@@ -1,0 +1,12 @@
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\PortalTestes.dll
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\PortalTestes.pdb
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\nunit.framework.dll
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\WebDriver.dll
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\WebDriver.Support.dll
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\nunit.framework.xml
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\ThoughtWorks.Selenium.Core.xml
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\WebDriver.xml
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\bin\Debug\WebDriver.Support.xml
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\obj\Debug\PortalTestes.dll
+E:\Projetos\001. VistoriaPro\16.08\UGC\PortalTestes\obj\Debug\PortalTestes.pdb
